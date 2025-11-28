@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Past Paper Solver</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    nav a { margin-right: 15px; cursor: pointer; }
+    .section { display: none; margin-top:20px; }
+  </style>
+  <script>
+    function showSection(id){
+      document.querySelectorAll('.section').forEach(s=>s.style.display='none');
+      document.getElementById(id).style.display='block';
+    }
+
+    const ownerPassword = "owner123";
+    const editorPassword = "editor123";
+    let adminRole = null;
+
+    function loginAdmin(){
+      const pass = document.getElementById('adminPass').value;
+      if(pass === ownerPassword){
+        adminRole = "owner";
+        document.getElementById('adminArea').style.display='block';
+        document.getElementById('adminMsg').innerText="Logged in as OWNER";
+      } else if(pass === editorPassword){
+        adminRole = "editor";
+        document.getElementById('adminArea').style.display='block';
+        document.getElementById('adminMsg').innerText="Logged in as EDITOR";
+      } else {
+        alert("Incorrect password");
+      }
+    }
+
+    function saveMCQ(){
+      const q=document.getElementById('newQuestion').value;
+      const o1=document.getElementById('opt1').value;
+      const o2=document.getElementById('opt2').value;
+      const o3=document.getElementById('opt3').value;
+      const correct=document.getElementById('correctOpt').value;
+
+      if(!q||!o1||!o2||!o3){
+        document.getElementById('adminMsg').innerText="Fill all fields.";
+        return;
+      }
+      document.getElementById('adminMsg').innerText="Question saved ("+adminRole+")";
+    }
+  </script>
+</head>
+<body>
+
+<nav>
+  <a onclick="showSection('home')">Home</a>
+  <a onclick="showSection('chapters')">Chapters</a>
+  <a onclick="showSection('admin')">Admin</a>
+</nav>
+
+<div id="home" class="section" style="display:block">
+  <h2>Welcome</h2>
+  <p>Past paper solver website.</p>
+</div>
+
+<div id="chapters" class="section">
+  <h2>Chapters</h2>
+  <h3>Biology</h3>
+  <ul>
+    <li>Cell Structure</li>
+    <li>Bioenergetics</li>
+    <li>Enzymes</li>
+    <li>Coordination & Control</li>
+  </ul>
+  <h3>Chemistry</h3>
+  <ul>
+    <li>Atomic Structure</li>
+    <li>Chemical Bonding</li>
+    <li>Electrochemistry</li>
+    <li>Rates of Reaction</li>
+  </ul>
+</div>
+
+<div id="admin" class="section">
+  <h2>Admin Panel (Owner + Editor)</h2>
+  <input type="password" id="adminPass" placeholder="Enter password">
+  <button onclick="loginAdmin()">Login</button>
+  <p id="adminMsg"></p>
+
+  <div id="adminArea" style="display:none;">
+    <h3>Add MCQ</h3>
+    <input id="newQuestion" placeholder="Question"><br><br>
+    <input id="opt1" placeholder="Option 1"><br>
+    <input id="opt2" placeholder="Option 2"><br>
+    <input id="opt3" placeholder="Option 3"><br><br>
+    <input id="correctOpt" placeholder="Correct option"><br><br>
+    <button onclick="saveMCQ()">Save</button>
+  </div>
+</div>
+
+</body>
+</html>
