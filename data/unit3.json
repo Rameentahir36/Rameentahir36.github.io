@@ -146,3 +146,19 @@
       "topic": "Group 2 compounds",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 19,
+      "question": "State the observation when magnesium ribbon is added to excess steam.",
+      "answer": "A white solid (magnesium oxide) is formed and hydrogen gas is produced.",
+      "topic": "Group 2 reactions",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 20,
+      "question": "Write the ionic equation for the reaction between magnesium oxide and hydrochloric acid.",
+      "answer": "MgO + 2H⁺ → Mg²⁺ + H₂O",
+      "topic": "Group 2 reactions",
+      "marks": 1
+    }
