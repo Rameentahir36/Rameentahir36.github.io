@@ -1303,3 +1303,87 @@
       "topic": "Ribosomes / Protein synthesis",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 94,
+      "question": "Which statement correctly describes mitosis?",
+      "options": [
+        "It produces four genetically different cells",
+        "It occurs only in gamete cells",
+        "It produces two genetically identical daughter cells",
+        "It involves the formation of a cell plate in animal cells"
+      ],
+      "answer": "C",
+      "topic": "Cell division / Mitosis",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 95,
+      "question": "What is the function of the Golgi apparatus?",
+      "options": [
+        "Synthesis of proteins",
+        "Modification and packaging of proteins",
+        "Production of ATP",
+        "DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Cell organelles",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 96,
+      "question": "Which level of protein structure is determined by hydrogen bonding between amino acids?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": "B",
+      "topic": "Proteins / Structure",
+      "marks": 1
+    }
+{
+      "paper": "Jun 2023",
+      "number": 97,
+      "question": "Which test is used to identify the presence of reducing sugars?",
+      "options": [
+        "Biuret test",
+        "Iodine test",
+        "Benedict’s test",
+        "Emulsion test"
+      ],
+      "answer": "C",
+      "topic": "Biochemical tests",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 98,
+      "question": "Which enzyme breaks down starch?",
+      "options": [
+        "Amylase",
+        "Protease",
+        "Lipase",
+        "Lactase"
+      ],
+      "answer": "A",
+      "topic": "Enzymes",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 99,
+      "question": "Which factor does NOT affect enzyme activity?",
+      "options": [
+        "Temperature",
+        "pH",
+        "Substrate concentration",
+        "Mass of enzyme molecule"
+      ],
+      "answer": "D",
+      "topic": "Enzymes",
+      "marks": 1
+    }
