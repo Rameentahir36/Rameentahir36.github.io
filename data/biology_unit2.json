@@ -43,3 +43,1053 @@
       "topic": "Genes / Alleles",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 4,
+      "question": "Which process produces mRNA from a DNA template?",
+      "options": [
+        "Translation",
+        "Replication",
+        "Transcription",
+        "Mutation"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / Transcription",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 5,
+      "question": "Which structure is found in RNA but not DNA?",
+      "options": [
+        "Thymine",
+        "Deoxyribose",
+        "Double helix",
+        "Uracil"
+      ],
+      "answer": "D",
+      "topic": "RNA structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 6,
+      "question": "What type of bond forms between amino acids during translation?",
+      "options": [
+        "Glycosidic bond",
+        "Hydrogen bond",
+        "Peptide bond",
+        "Ionic bond"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / Translation",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 7,
+      "question": "What is the name of the sequence of three bases on mRNA that codes for an amino acid?",
+      "options": [
+        "Anticodon",
+        "Codon",
+        "Triplet",
+        "Allele"
+      ],
+      "answer": "B",
+      "topic": "Genetic code / mRNA",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 8,
+      "question": "Which molecule carries amino acids to the ribosome during translation?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "DNA polymerase"
+      ],
+      "answer": "B",
+      "topic": "tRNA / Translation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 9,
+      "question": "What is the term for a change in the DNA base sequence?",
+      "options": [
+        "Mutation",
+        "Transcription",
+        "Replication",
+        "Translation"
+      ],
+      "answer": "A",
+      "topic": "Mutations",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 10,
+      "question": "Which enzyme joins Okazaki fragments together during DNA replication?",
+      "options": [
+        "DNA helicase",
+        "DNA polymerase",
+        "DNA ligase",
+        "RNA polymerase"
+      ],
+      "answer": "C",
+      "topic": "DNA replication / Enzymes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 11,
+      "question": "Which term describes the physical expression of a gene?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Allele",
+        "Chromosome"
+      ],
+      "answer": "B",
+      "topic": "Genotype vs phenotype",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 12,
+      "question": "Which base is complementary to cytosine in DNA?",
+      "options": [
+        "Adenine",
+        "Thymine",
+        "Guanine",
+        "Uracil"
+      ],
+      "answer": "C",
+      "topic": "DNA base pairing",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 13,
+      "question": "What term describes a section of DNA that codes for a polypeptide?",
+      "options": [
+        "Gene",
+        "Chromatid",
+        "Locus",
+        "Allele"
+      ],
+      "answer": "A",
+      "topic": "Genes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 14,
+      "question": "During protein synthesis, where does translation occur?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Golgi apparatus",
+        "Mitochondrion"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / Translation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 15,
+      "question": "Which component of DNA determines the sequence of amino acids in a protein?",
+      "options": [
+        "Phosphate groups",
+        "Sugar molecules",
+        "Base sequence",
+        "Hydrogen bonds"
+      ],
+      "answer": "C",
+      "topic": "Genetic code",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 16,
+      "question": "What is the role of mRNA in protein synthesis?",
+      "options": [
+        "Carries amino acids to the ribosome",
+        "Forms part of the ribosome",
+        "Carries the genetic code from DNA to the ribosome",
+        "Catalyses peptide bond formation"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / mRNA",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 17,
+      "question": "Which type of mutation does NOT change the amino acid sequence?",
+      "options": [
+        "Nonsense mutation",
+        "Missense mutation",
+        "Silent mutation",
+        "Frameshift mutation"
+      ],
+      "answer": "C",
+      "topic": "Mutations",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 18,
+      "question": "Which process separates homologous chromosomes?",
+      "options": [
+        "Mitosis",
+        "Meiosis I",
+        "Meiosis II",
+        "Binary fission"
+      ],
+      "answer": "B",
+      "topic": "Meiosis",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 19,
+      "question": "Which structure holds sister chromatids together?",
+      "options": [
+        "Centrosome",
+        "Centromere",
+        "Chromatin",
+        "Spindle fibre"
+      ],
+      "answer": "B",
+      "topic": "Chromosomes / Cell division",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 20,
+      "question": "Which stage of the cell cycle involves DNA replication?",
+      "options": [
+        "G1 phase",
+        "G2 phase",
+        "S phase",
+        "M phase"
+      ],
+      "answer": "C",
+      "topic": "Cell cycle",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 21,
+      "question": "Which enzyme synthesizes a new DNA strand during replication?",
+      "options": [
+        "DNA polymerase",
+        "DNA helicase",
+        "RNA polymerase",
+        "DNA ligase"
+      ],
+      "answer": "A",
+      "topic": "DNA replication",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 22,
+      "question": "Which process increases genetic variation in meiosis?",
+      "options": [
+        "Binary fission",
+        "Crossing over",
+        "Cytokinesis",
+        "DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Meiosis / Genetic variation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 23,
+      "question": "Which statement describes homologous chromosomes?",
+      "options": [
+        "They are genetically identical",
+        "They carry the same genes but may have different alleles",
+        "They are joined at the centromere",
+        "They are produced during DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Chromosomes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 24,
+      "question": "Which phase of mitosis involves the chromosomes lining up at the equator?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "B",
+      "topic": "Mitosis",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 25,
+      "question": "During which phase of mitosis do sister chromatids separate?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "C",
+      "topic": "Mitosis",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 26,
+      "question": "What is the function of spindle fibres during mitosis?",
+      "options": [
+        "Replicate DNA",
+        "Break down the nuclear envelope",
+        "Attach to centromeres and pull chromatids apart",
+        "Produce ATP for the cell"
+      ],
+      "answer": "C",
+      "topic": "Cell division / Spindle fibres",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 27,
+      "question": "Which process increases the number of identical body cells?",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Fertilisation",
+        "Crossing over"
+      ],
+      "answer": "B",
+      "topic": "Mitosis",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 28,
+      "question": "What is produced at the end of meiosis?",
+      "options": [
+        "Two genetically identical diploid cells",
+        "Four genetically identical diploid cells",
+        "Two genetically different haploid cells",
+        "Four genetically different haploid cells"
+      ],
+      "answer": "D",
+      "topic": "Meiosis / Gametes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 29,
+      "question": "Which event occurs in prophase of mitosis?",
+      "options": [
+        "Chromosomes line up at the equator",
+        "Spindle fibres shorten pulling chromatids apart",
+        "Chromosomes condense and become visible",
+        "Nuclear envelope reforms"
+      ],
+      "answer": "C",
+      "topic": "Mitosis / Prophase",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 30,
+      "question": "Which structure forms during cytokinesis in plant cells?",
+      "options": [
+        "Cleavage furrow",
+        "Cell plate",
+        "Spindle apparatus",
+        "Nucleolus"
+      ],
+      "answer": "B",
+      "topic": "Cytokinesis (Plants)",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 31,
+      "question": "Which term describes the position of a gene on a chromosome?",
+      "options": [
+        "Karyotype",
+        "Allele",
+        "Locus",
+        "Genome"
+      ],
+      "answer": "C",
+      "topic": "Genetics / Gene position",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 32,
+      "question": "Which component of DNA carries the genetic information?",
+      "options": [
+        "Phosphate groups",
+        "Deoxyribose sugars",
+        "Base sequence",
+        "Hydrogen bonds"
+      ],
+      "answer": "C",
+      "topic": "DNA structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 33,
+      "question": "Which molecule is responsible for forming peptide bonds during translation?",
+      "options": [
+        "tRNA",
+        "rRNA",
+        "DNA polymerase",
+        "RNA polymerase"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / Ribosomes",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 34,
+      "question": "Which statement describes semi-conservative DNA replication?",
+      "options": [
+        "Both new DNA molecules contain two newly synthesized strands",
+        "Each new DNA molecule contains one original and one new strand",
+        "The original DNA molecule remains unchanged",
+        "Only one strand of DNA is replicated"
+      ],
+      "answer": "B",
+      "topic": "DNA replication",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 35,
+      "question": "Which type of RNA carries the genetic code from the nucleus to the ribosome?",
+      "options": [
+        "tRNA",
+        "mRNA",
+        "rRNA",
+        "snRNA"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / mRNA",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 36,
+      "question": "Which process produces two genetically identical daughter cells?",
+      "options": [
+        "Meiosis",
+        "Fertilisation",
+        "Mitosis",
+        "Crossing over"
+      ],
+      "answer": "C",
+      "topic": "Mitosis",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 37,
+      "question": "Which enzyme unwinds the DNA double helix during replication?",
+      "options": [
+        "DNA polymerase",
+        "DNA ligase",
+        "DNA helicase",
+        "RNA polymerase"
+      ],
+      "answer": "C",
+      "topic": "DNA replication / Enzymes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 38,
+      "question": "During which stage of meiosis do homologous chromosomes separate?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Anaphase II"
+      ],
+      "answer": "C",
+      "topic": "Meiosis / Chromosome separation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 39,
+      "question": "Which molecule forms the backbone of a DNA strand along with phosphate groups?",
+      "options": [
+        "Adenine",
+        "Ribose",
+        "Deoxyribose",
+        "Guanine"
+      ],
+      "answer": "C",
+      "topic": "DNA structure",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 40,
+      "question": "Which base is found in RNA but not DNA?",
+      "options": [
+        "Thymine",
+        "Uracil",
+        "Cytosine",
+        "Adenine"
+      ],
+      "answer": "B",
+      "topic": "RNA structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 41,
+      "question": "Which process converts mRNA into a sequence of amino acids?",
+      "options": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Mutation"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / Translation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 42,
+      "question": "Which event occurs during prophase of mitosis?",
+      "options": [
+        "Chromosomes condense",
+        "Chromosomes line up at the equator",
+        "Sister chromatids separate",
+        "Nuclear envelope reforms"
+      ],
+      "answer": "A",
+      "topic": "Mitosis / Prophase",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 43,
+      "question": "Which statement describes sister chromatids?",
+      "options": [
+        "They are different versions of the same gene",
+        "They are identical copies of a chromosome joined at the centromere",
+        "They are homologous chromosomes",
+        "They are chromosomes from different parents"
+      ],
+      "answer": "B",
+      "topic": "Chromosomes / Cell division",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 44,
+      "question": "Which stage of mitosis involves chromatids being pulled to opposite poles?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "C",
+      "topic": "Mitosis / Anaphase",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 45,
+      "question": "Which molecule carries amino acids to the ribosome?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "DNA"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / tRNA",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 46,
+      "question": "Which type of RNA forms the structure of ribosomes?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "snRNA"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / rRNA",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 47,
+      "question": "Which mutation results in a premature stop codon?",
+      "options": [
+        "Silent mutation",
+        "Missense mutation",
+        "Nonsense mutation",
+        "Frameshift mutation"
+      ],
+      "answer": "C",
+      "topic": "Mutations",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 48,
+      "question": "Which phase of the cell cycle precedes mitosis?",
+      "options": [
+        "G1 phase",
+        "G2 phase",
+        "S phase",
+        "Cytokinesis"
+      ],
+      "answer": "B",
+      "topic": "Cell cycle",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 49,
+      "question": "Which process separates sister chromatids?",
+      "options": [
+        "Mitosis",
+        "Meiosis I",
+        "Crossing over",
+        "DNA replication"
+      ],
+      "answer": "A",
+      "topic": "Mitosis / Chromatid separation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 50,
+      "question": "Which cellular event occurs during G1 phase?",
+      "options": [
+        "DNA replication",
+        "Protein and organelle synthesis",
+        "Chromosome condensation",
+        "Chromatid separation"
+      ],
+      "answer": "B",
+      "topic": "Cell cycle / Growth",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 51,
+      "question": "Which molecule is directly responsible for adding nucleotides during transcription?",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase",
+        "DNA ligase",
+        "Helicase"
+      ],
+      "answer": "B",
+      "topic": "Transcription / Enzymes",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 52,
+      "question": "Which statement describes the genetic code?",
+      "options": [
+        "Overlapping and ambiguous",
+        "Non-overlapping and degenerate",
+        "Overlapping and universal",
+        "Ambiguous and universal"
+      ],
+      "answer": "B",
+      "topic": "Genetic code",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 53,
+      "question": "Which structure forms the mitotic spindle?",
+      "options": [
+        "Centromeres",
+        "Centrioles",
+        "Ribosomes",
+        "Nucleoli"
+      ],
+      "answer": "B",
+      "topic": "Cell division / Centrioles",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 54,
+      "question": "What is the name of a different form of the same gene?",
+      "options": [
+        "Chromosome",
+        "Locus",
+        "Anticodon",
+        "Allele"
+      ],
+      "answer": "D",
+      "topic": "Genetics / Alleles",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 55,
+      "question": "Which process results in the formation of genetically identical daughter cells?",
+      "options": [
+        "Meiosis",
+        "Fertilisation",
+        "Mitosis",
+        "Crossing over"
+      ],
+      "answer": "C",
+      "topic": "Mitosis",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 56,
+      "question": "Which phase of meiosis involves crossing over?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": "A",
+      "topic": "Meiosis / Crossing over",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 57,
+      "question": "Which molecule carries the anticodon?",
+      "options": [
+        "DNA",
+        "mRNA",
+        "tRNA",
+        "rRNA"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / tRNA",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 58,
+      "question": "Which enzyme forms phosphodiester bonds between nucleotides during DNA replication?",
+      "options": [
+        "DNA ligase",
+        "DNA polymerase",
+        "RNA polymerase",
+        "Helicase"
+      ],
+      "answer": "B",
+      "topic": "DNA replication / Enzymes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 59,
+      "question": "Which statement describes homologous chromosomes?",
+      "options": [
+        "They are identical copies of each other",
+        "They carry the same genes but may have different alleles",
+        "They are joined at the centromere",
+        "They arise after DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Genetics / Chromosomes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 60,
+      "question": "Which process occurs during metaphase of mitosis?",
+      "options": [
+        "Chromosomes condense",
+        "Chromosomes line up at the equator",
+        "Sister chromatids separate",
+        "Nuclear envelope reforms"
+      ],
+      "answer": "B",
+      "topic": "Mitosis / Metaphase",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 61,
+      "question": "Which molecules are joined by hydrogen bonds in DNA?",
+      "options": [
+        "Sugar and phosphate",
+        "Adjacent nucleotides",
+        "Complementary bases",
+        "Amino acids"
+      ],
+      "answer": "C",
+      "topic": "DNA structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 62,
+      "question": "Which process uses DNA as a template to form mRNA?",
+      "options": [
+        "Translation",
+        "Transcription",
+        "Replication",
+        "Mutation"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / Transcription",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 63,
+      "question": "Which type of mutation adds or removes a base, changing every codon after it?",
+      "options": [
+        "Silent mutation",
+        "Missense mutation",
+        "Frameshift mutation",
+        "Nonsense mutation"
+      ],
+      "answer": "C",
+      "topic": "Mutations",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 64,
+      "question": "Which bond holds amino acids together in a polypeptide chain?",
+      "options": [
+        "Glycosidic bond",
+        "Peptide bond",
+        "Hydrogen bond",
+        "Ionic bond"
+      ],
+      "answer": "B",
+      "topic": "Protein structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 65,
+      "question": "Which stage of the cell cycle involves DNA being checked for errors before mitosis?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": "C",
+      "topic": "Cell cycle / Checkpoints",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 66,
+      "question": "Which structure attaches to the centromere of chromosomes during cell division?",
+      "options": [
+        "Centrosome",
+        "Spindle fibre",
+        "Nucleolus",
+        "Ribosome"
+      ],
+      "answer": "B",
+      "topic": "Mitosis / Spindle fibres",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 67,
+      "question": "Which structure contains the anticodon that pairs with codons on mRNA?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "DNA"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / tRNA",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 68,
+      "question": "Which feature of the genetic code means that more than one codon can code for the same amino acid?",
+      "options": [
+        "Universal",
+        "Non-overlapping",
+        "Degenerate",
+        "Triplet"
+      ],
+      "answer": "C",
+      "topic": "Genetic code",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 69,
+      "question": "In which phase of mitosis does the nuclear envelope reform?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "D",
+      "topic": "Mitosis / Telophase",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 70,
+      "question": "Which cellular process results in the production of gametes?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "DNA replication",
+        "Transcription"
+      ],
+      "answer": "B",
+      "topic": "Meiosis / Gamete formation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 71,
+      "question": "Which molecule unwinds DNA for transcription?",
+      "options": [
+        "DNA ligase",
+        "RNA polymerase",
+        "DNA polymerase",
+        "Helicase"
+      ],
+      "answer": "B",
+      "topic": "Transcription / Enzymes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 72,
+      "question": "Which event occurs in Anaphase I of meiosis?",
+      "options": [
+        "Sister chromatids separate",
+        "Homologous chromosomes separate",
+        "Nuclear envelope reforms",
+        "Chromosomes condense"
+      ],
+      "answer": "B",
+      "topic": "Meiosis / Anaphase I",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 73,
+      "question": "Which term describes a pair of chromosomes, one from each parent, that carry the same genes?",
+      "options": [
+        "Sister chromatids",
+        "Homologous chromosomes",
+        "Alleles",
+        "Karyotypes"
+      ],
+      "answer": "B",
+      "topic": "Genetics / Chromosomes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 74,
+      "question": "Which process synthesises a polypeptide using mRNA?",
+      "options": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Mitosis"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / Translation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 75,
+      "question": "Which bond holds the sugar and phosphate groups together in DNA?",
+      "options": [
+        "Hydrogen bond",
+        "Ionic bond",
+        "Phosphodiester bond",
+        "Peptide bond"
+      ],
+      "answer": "C",
+      "topic": "DNA structure / Bonding",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2024",
+      "number": 76,
+      "question": "Which cellular structure forms the spindle during cell division?",
+      "options": [
+        "Centrioles",
+        "Nucleolus",
+        "Ribosomes",
+        "Golgi apparatus"
+      ],
+      "answer": "A",
+      "topic": "Mitosis / Spindle formation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 77,
+      "question": "Which process results in genetic recombination during meiosis?",
+      "options": [
+        "DNA replication",
+        "Crossing over",
+        "Cytokinesis",
+        "Mitosis"
+      ],
+      "answer": "B",
+      "topic": "Meiosis / Genetic variation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 78,
+      "question": "Which enzyme joins Okazaki fragments together?",
+      "options": [
+        "RNA polymerase",
+        "DNA ligase",
+        "DNA polymerase",
+        "Helicase"
+      ],
+      "answer": "B",
+      "topic": "DNA replication / Enzymes",
+      "marks": 1
+    }
