@@ -799,3 +799,45 @@
       "topic": "Transport / Osmosis",
       "marks": 1
     }
+{
+      "paper": "Jan 2022",
+      "number": 58,
+      "question": "Which part of a nucleotide contains nitrogen?",
+      "options": [
+        "Phosphate group",
+        "Deoxyribose sugar",
+        "Organic base",
+        "Hydrogen bond"
+      ],
+      "answer": "C",
+      "topic": "Nucleic acids",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 59,
+      "question": "Which organelle synthesises lipids?",
+      "options": [
+        "Rough ER",
+        "Smooth ER",
+        "Golgi apparatus",
+        "Lysosomes"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / SER",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 60,
+      "question": "Which process increases the surface area for absorption in the small intestine?",
+      "options": [
+        "Microvilli",
+        "Goblet cells",
+        "Smooth muscle",
+        "Capillaries"
+      ],
+      "answer": "A",
+      "topic": "Digestion / Absorption",
+      "marks": 1
+    }
