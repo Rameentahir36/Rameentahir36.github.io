@@ -1429,3 +1429,45 @@
       "topic": "Respiration / Organelles",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 103,
+      "question": "Which type of bond holds the two strands of a DNA molecule together?",
+      "options": [
+        "Ionic bonds",
+        "Hydrogen bonds",
+        "Peptide bonds",
+        "Glycosidic bonds"
+      ],
+      "answer": "B",
+      "topic": "DNA structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 104,
+      "question": "Which structure controls the entry and exit of substances in a cell?",
+      "options": [
+        "Cell wall",
+        "Cytoplasm",
+        "Cell membrane",
+        "Nucleus"
+      ],
+      "answer": "C",
+      "topic": "Cell membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 105,
+      "question": "Which component of a nucleotide is different between DNA and RNA?",
+      "options": [
+        "Phosphate group",
+        "Pentose sugar",
+        "Nitrogenous base",
+        "Both sugar and base"
+      ],
+      "answer": "D",
+      "topic": "Nucleic acids / DNA vs RNA",
+      "marks": 1
+    }
