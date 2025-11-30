@@ -1639,3 +1639,45 @@
       "topic": "Proteins / Peptide bond",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 118,
+      "question": "Which organelle contains circular DNA similar to that of prokaryotes?",
+      "options": [
+        "Ribosome",
+        "Golgi apparatus",
+        "Mitochondrion",
+        "Rough ER"
+      ],
+      "answer": "C",
+      "topic": "Mitochondria / Endosymbiosis",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 119,
+      "question": "Which of the following is a function of the cell-surface membrane?",
+      "options": [
+        "Protein synthesis",
+        "Regulating movement of substances into and out of the cell",
+        "Producing ATP",
+        "Packaging enzymes"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 120,
+      "question": "Which statement describes the tertiary structure of a protein?",
+      "options": [
+        "Sequence of amino acids",
+        "Alpha helices and beta sheets",
+        "3D folding due to interactions between R groups",
+        "Association of two or more polypeptide chains"
+      ],
+      "answer": "C",
+      "topic": "Proteins / Structure",
+      "marks": 1
+    }
