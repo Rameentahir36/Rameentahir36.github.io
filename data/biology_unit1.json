@@ -1471,3 +1471,45 @@
       "topic": "Nucleic acids / DNA vs RNA",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 106,
+      "question": "What is the role of tRNA during protein synthesis?",
+      "options": [
+        "Catalyses peptide bond formation",
+        "Carries amino acids to the ribosome",
+        "Transcribes DNA into mRNA",
+        "Forms the structure of the ribosome"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / Translation",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 107,
+      "question": "Which organelle produces lipids?",
+      "options": [
+        "Rough ER",
+        "Smooth ER",
+        "Golgi apparatus",
+        "Ribosome"
+      ],
+      "answer": "B",
+      "topic": "Cell organelles / SER",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 108,
+      "question": "Which level of protein structure is determined by the amino acid sequence?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": "A",
+      "topic": "Proteins / Structure",
+      "marks": 1
+    }
