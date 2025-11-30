@@ -1681,3 +1681,87 @@
       "topic": "Proteins / Structure",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 121,
+      "question": "Which factor increases the rate of diffusion across a membrane?",
+      "options": [
+        "Smaller surface area",
+        "Thicker membrane",
+        "Greater concentration gradient",
+        "Lower temperature"
+      ],
+      "answer": "C",
+      "topic": "Diffusion",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 122,
+      "question": "Which statement describes the role of mRNA in protein synthesis?",
+      "options": [
+        "It carries amino acids to the ribosome",
+        "It forms peptide bonds",
+        "It carries the genetic code from DNA to the ribosome",
+        "It forms the ribosomal structure"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis / Transcription",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 123,
+      "question": "Which test is used to detect lipids?",
+      "options": [
+        "Biuret test",
+        "Benedict’s test",
+        "Emulsion test",
+        "Iodine test"
+      ],
+      "answer": "C",
+      "topic": "Biochemical tests",
+      "marks": 1
+    }
+{
+      "paper": "Jan 2022",
+      "number": 124,
+      "question": "Which of the following best describes a prokaryotic cell?",
+      "options": [
+        "Contains membrane-bound organelles",
+        "Contains circular DNA and 70S ribosomes",
+        "Contains linear chromosomes in a nucleus",
+        "Contains mitochondria and chloroplasts"
+      ],
+      "answer": "B",
+      "topic": "Prokaryotes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 125,
+      "question": "Which test is used to identify proteins?",
+      "options": [
+        "Biuret test",
+        "Iodine test",
+        "Emulsion test",
+        "Benedict’s test"
+      ],
+      "answer": "A",
+      "topic": "Biochemical tests",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 126,
+      "question": "Which structure is responsible for synthesising proteins?",
+      "options": [
+        "Nucleus",
+        "Ribosomes",
+        "Smooth ER",
+        "Golgi apparatus"
+      ],
+      "answer": "B",
+      "topic": "Cell organelles / Ribosomes",
+      "marks": 1
+    }
