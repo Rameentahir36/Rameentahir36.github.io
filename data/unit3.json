@@ -26,3 +26,27 @@
       "topic": "Redox",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 4,
+      "question": "Explain why chlorine is a stronger oxidising agent than bromine.",
+      "answer": "Chlorine has a higher tendency to gain electrons because it has a smaller atomic radius and stronger attraction between nucleus and incoming electrons.",
+      "topic": "Halogens",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 5,
+      "question": "State the trend in reactivity of Group 2 metals as you go down the group.",
+      "answer": "Reactivity increases down the group.",
+      "topic": "Group 2",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 6,
+      "question": "Explain why Group 2 metals become more reactive down the group.",
+      "answer": "Ionisation energy decreases due to increased shielding and atomic radius, so electrons are lost more easily.",
+      "topic": "Group 2",
+      "marks": 2
+    },
