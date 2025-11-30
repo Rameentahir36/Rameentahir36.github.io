@@ -74,3 +74,27 @@
       "topic": "Alkenes / Mechanisms",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 10,
+      "question": "Define the term electrophile.",
+      "answer": "An electron pair acceptor.",
+      "topic": "Organic mechanisms",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 11,
+      "question": "State the type of reaction when bromine reacts with an alkene.",
+      "answer": "Electrophilic addition.",
+      "topic": "Alkenes / Mechanisms",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 12,
+      "question": "Explain why bromine water is decolourised when added to an alkene.",
+      "answer": "The alkene reacts with bromine in an electrophilic addition reaction, breaking the Br–Br bond and forming a dibromoalkane.",
+      "topic": "Alkenes / Reactions",
+      "marks": 2
+    },
