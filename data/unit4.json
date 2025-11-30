@@ -50,3 +50,27 @@
       "topic": "Isomerism",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 7,
+      "question": "Explain why E–Z isomerism occurs in alkenes.",
+      "answer": "It occurs because there is restricted rotation around the C=C double bond and each carbon has two different groups attached.",
+      "topic": "Isomerism / Alkenes",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 8,
+      "question": "State the reagent and condition needed for the hydration of ethene to produce ethanol.",
+      "answer": "Steam (H₂O(g)) and a phosphoric acid catalyst at high temperature and pressure.",
+      "topic": "Alkenes / Reactions",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 9,
+      "question": "Explain why addition reactions occur in alkenes.",
+      "answer": "The C=C bond has a region of high electron density which attracts electrophiles.",
+      "topic": "Alkenes / Mechanisms",
+      "marks": 2
+    },
