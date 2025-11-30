@@ -98,3 +98,27 @@
       "topic": "Halogens",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 13,
+      "question": "State the colour change observed when chlorine water is added to potassium iodide solution.",
+      "answer": "The solution turns brown due to the formation of iodine.",
+      "topic": "Halogen displacement",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 14,
+      "question": "Explain why chlorine can displace bromine from potassium bromide solution.",
+      "answer": "Chlorine is a stronger oxidising agent and can gain electrons from bromide ions.",
+      "topic": "Halogen displacement",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 15,
+      "question": "Write the ionic equation for the reaction between chlorine water and potassium iodide solution.",
+      "answer": "Cl₂ + 2I⁻ → 2Cl⁻ + I₂",
+      "topic": "Halogen displacement",
+      "marks": 1
+    },
