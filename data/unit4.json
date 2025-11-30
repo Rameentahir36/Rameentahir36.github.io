@@ -122,3 +122,27 @@
       "topic": "Alcohols",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 16,
+      "question": "State the reagent used to test for aldehydes.",
+      "answer": "Tollens’ reagent or Fehling’s/Benedict’s solution.",
+      "topic": "Aldehydes and ketones / Tests",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 17,
+      "question": "State the positive result with Tollens’ reagent for an aldehyde.",
+      "answer": "A silver mirror forms.",
+      "topic": "Aldehydes and ketones / Tests",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 18,
+      "question": "State the product formed when an aldehyde is oxidised.",
+      "answer": "A carboxylic acid.",
+      "topic": "Aldehydes / Oxidation",
+      "marks": 1
+    },
