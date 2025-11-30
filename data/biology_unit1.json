@@ -967,3 +967,45 @@
       "topic": "Cell structure / Golgi",
       "marks": 1
     }
+{
+      "paper": "Jan 2020",
+      "number": 70,
+      "question": "Which type of reaction joins monosaccharides together to form a disaccharide?",
+      "options": [
+        "Hydrolysis",
+        "Condensation",
+        "Oxidation",
+        "Reduction"
+      ],
+      "answer": "B",
+      "topic": "Carbohydrates / Reactions",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2020",
+      "number": 71,
+      "question": "Which organelle synthesises proteins?",
+      "options": [
+        "Ribosomes",
+        "Golgi apparatus",
+        "Smooth ER",
+        "Lysosomes"
+      ],
+      "answer": "A",
+      "topic": "Cell structure / Ribosomes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2020",
+      "number": 72,
+      "question": "What is the function of the mitochondria?",
+      "options": [
+        "Protein synthesis",
+        "ATP production",
+        "Photosynthesis",
+        "DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Respiration / Mitochondria",
+      "marks": 1
+    }
