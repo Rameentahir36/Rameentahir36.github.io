@@ -1765,3 +1765,45 @@
       "topic": "Cell organelles / Ribosomes",
       "marks": 1
     }
+{
+      "paper": "Jan 2022",
+      "number": 127,
+      "question": "Which process describes the breakdown of a disaccharide into two monosaccharides?",
+      "options": [
+        "Condensation",
+        "Oxidation",
+        "Hydrolysis",
+        "Reduction"
+      ],
+      "answer": "C",
+      "topic": "Biological molecules / Hydrolysis",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 128,
+      "question": "Which organelle is involved in modifying and packaging proteins?",
+      "options": [
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Rough ER",
+        "Lysosome"
+      ],
+      "answer": "B",
+      "topic": "Cell organelles / Golgi",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 129,
+      "question": "Which type of bond forms between two monosaccharides?",
+      "options": [
+        "Peptide bond",
+        "Glycosidic bond",
+        "Ionic bond",
+        "Hydrogen bond"
+      ],
+      "answer": "B",
+      "topic": "Carbohydrates / Bonds",
+      "marks": 1
+    }
