@@ -127,3 +127,45 @@
       "topic": "Transport across membranes",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 10,
+      "question": "Which of the following is a feature of prokaryotic cells but not eukaryotic cells?",
+      "options": [
+        "Cell membrane",
+        "Membrane-bound organelles",
+        "Circular DNA",
+        "Ribosomes"
+      ],
+      "answer": "C",
+      "topic": "Prokaryotic vs eukaryotic cells",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 11,
+      "question": "Which of the following best describes a condensation reaction?",
+      "options": [
+        "Breaking a bond using water",
+        "Forming a bond by removing water",
+        "Rearranging atoms without water involvement",
+        "A reaction that requires ATP"
+      ],
+      "answer": "B",
+      "topic": "Biological molecules",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 12,
+      "question": "What is the role of ATP in cells?",
+      "options": [
+        "Long-term energy storage",
+        "Immediate energy source",
+        "Structural support",
+        "Genetic information storage"
+      ],
+      "answer": "B",
+      "topic": "Energy / ATP",
+      "marks": 1
+    }
