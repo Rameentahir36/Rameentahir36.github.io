@@ -2,3 +2,27 @@
   "unit": "CH04",
   "type": "structured",
   "questions": [
+{
+      "paper": "Jan 2023",
+      "number": 1,
+      "question": "Define the term homologous series.",
+      "answer": "A family of organic compounds with the same functional group and general formula, with each successive member differing by CH₂.",
+      "topic": "Organic basics",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 2,
+      "question": "State what is meant by a functional group.",
+      "answer": "An atom or group of atoms responsible for the characteristic reactions of a compound.",
+      "topic": "Organic basics",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 3,
+      "question": "Explain why shorter-chain alkanes have lower boiling points.",
+      "answer": "They have weaker London dispersion forces due to fewer electrons and a smaller surface area.",
+      "topic": "Alkanes",
+      "marks": 2
+    },
