@@ -673,3 +673,45 @@
       "topic": "Cell membranes",
       "marks": 1
     }
+{
+      "paper": "Jan 2021",
+      "number": 49,
+      "question": "Which structure in a plant cell helps maintain cell rigidity?",
+      "options": [
+        "Cell membrane",
+        "Cell wall",
+        "Chloroplast",
+        "Nucleus"
+      ],
+      "answer": "B",
+      "topic": "Plant cells",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2021",
+      "number": 50,
+      "question": "Which molecule forms the backbone of DNA?",
+      "options": [
+        "Phosphate and deoxyribose sugar",
+        "Phosphate and ribose sugar",
+        "Ribose sugar and base",
+        "Deoxyribose sugar and base"
+      ],
+      "answer": "A",
+      "topic": "Nucleic acids",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2021",
+      "number": 51,
+      "question": "Which enzyme catalyses the formation of mRNA from DNA?",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase",
+        "Ligase",
+        "Helicase"
+      ],
+      "answer": "B",
+      "topic": "Transcription",
+      "marks": 1
+    }
