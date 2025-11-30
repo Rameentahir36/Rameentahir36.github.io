@@ -337,3 +337,45 @@
       "topic": "Transcription / DNA & RNA",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 25,
+      "question": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+      "options": [
+        "DNA polymerase",
+        "Helicase",
+        "Ligase",
+        "RNA polymerase"
+      ],
+      "answer": "B",
+      "topic": "DNA replication",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 26,
+      "question": "Which statement correctly describes the structure of a nucleotide?",
+      "options": [
+        "A sugar and a phosphate only",
+        "A base and a sugar only",
+        "A sugar, a phosphate group, and an organic base",
+        "A phosphate group and two bases"
+      ],
+      "answer": "C",
+      "topic": "Nucleotides",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 27,
+      "question": "Which of the following processes requires ATP?",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Facilitated diffusion",
+        "Active transport"
+      ],
+      "answer": "D",
+      "topic": "Transport across membranes",
+      "marks": 1
+    }
