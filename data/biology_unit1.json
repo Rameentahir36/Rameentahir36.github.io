@@ -757,3 +757,45 @@
       "topic": "Water",
       "marks": 1
     }
+{
+      "paper": "Jan 2022",
+      "number": 55,
+      "question": "Which level of protein structure is determined solely by the sequence of amino acids?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": "A",
+      "topic": "Proteins",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 56,
+      "question": "Which statement about DNA replication is correct?",
+      "options": [
+        "It is conservative",
+        "It forms two new double helices containing only new strands",
+        "It requires DNA polymerase to add nucleotides",
+        "It occurs in the cytoplasm of all cells"
+      ],
+      "answer": "C",
+      "topic": "DNA replication",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 57,
+      "question": "Which of the following describes the movement of water across a partially permeable membrane?",
+      "options": [
+        "Active transport",
+        "Diffusion",
+        "Osmosis",
+        "Facilitated diffusion"
+      ],
+      "answer": "C",
+      "topic": "Transport / Osmosis",
+      "marks": 1
+    }
