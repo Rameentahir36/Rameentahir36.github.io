@@ -74,3 +74,27 @@
       "topic": "Kinetics",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 10,
+      "question": "Explain how a catalyst increases the rate of a reaction.",
+      "answer": "It provides an alternative reaction pathway with lower activation energy, so a greater proportion of particles have energy ≥ Ea.",
+      "topic": "Kinetics",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 11,
+      "question": "State the definition of dynamic equilibrium.",
+      "answer": "The forward and reverse reactions occur at the same rate and the concentrations of reactants and products remain constant.",
+      "topic": "Equilibrium",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 12,
+      "question": "Describe what happens to the equilibrium constant Kc when temperature changes.",
+      "answer": "For an exothermic reaction, Kc decreases when temperature increases; for an endothermic reaction, Kc increases.",
+      "topic": "Equilibrium",
+      "marks": 2
+    },
