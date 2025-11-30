@@ -1261,3 +1261,45 @@
       "topic": "Nucleic acids",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 91,
+      "question": "Which component of a cell membrane is responsible for facilitated diffusion?",
+      "options": [
+        "Cholesterol",
+        "Phospholipids",
+        "Carrier and channel proteins",
+        "Glycolipids"
+      ],
+      "answer": "C",
+      "topic": "Membrane transport",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 92,
+      "question": "Which organelle contains digestive enzymes that break down waste?",
+      "options": [
+        "Golgi apparatus",
+        "Mitochondrion",
+        "Lysosome",
+        "Smooth endoplasmic reticulum"
+      ],
+      "answer": "C",
+      "topic": "Cell organelles",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 93,
+      "question": "Which of the following best describes the role of ribosomes?",
+      "options": [
+        "Lipid synthesis",
+        "Protein synthesis",
+        "ATP production",
+        "DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Ribosomes / Protein synthesis",
+      "marks": 1
+    }
