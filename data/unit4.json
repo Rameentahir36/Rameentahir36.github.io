@@ -98,3 +98,27 @@
       "topic": "Alkenes / Reactions",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 13,
+      "question": "State the reagent and condition required to oxidise a primary alcohol to an aldehyde.",
+      "answer": "Acidified potassium dichromate(VI), heated and distilled immediately.",
+      "topic": "Alcohols / Oxidation",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 14,
+      "question": "State the observation when alcohols are oxidised using acidified potassium dichromate(VI).",
+      "answer": "The orange solution turns green.",
+      "topic": "Alcohols / Oxidation",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 15,
+      "question": "Explain why tertiary alcohols do not undergo oxidation.",
+      "answer": "There is no hydrogen atom attached to the carbon with the –OH group, so oxidation cannot occur.",
+      "topic": "Alcohols",
+      "marks": 2
+    },
