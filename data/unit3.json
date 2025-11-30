@@ -122,3 +122,27 @@
       "topic": "Halogen displacement",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 16,
+      "question": "State the trend in solubility of Group 2 hydroxides down the group.",
+      "answer": "Solubility increases down the group.",
+      "topic": "Group 2 compounds",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 17,
+      "question": "State the trend in solubility of Group 2 sulfates down the group.",
+      "answer": "Solubility decreases down the group.",
+      "topic": "Group 2 compounds",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 18,
+      "question": "Explain why barium sulfate is used in medical imaging despite containing a toxic ion.",
+      "answer": "Barium sulfate is insoluble, so Ba²⁺ ions cannot enter the bloodstream.",
+      "topic": "Group 2 compounds",
+      "marks": 2
+    },
