@@ -1513,3 +1513,45 @@
       "topic": "Proteins / Structure",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 109,
+      "question": "Which process results in the net movement of molecules from high concentration to low concentration?",
+      "options": [
+        "Active transport",
+        "Diffusion",
+        "Endocytosis",
+        "Exocytosis"
+      ],
+      "answer": "B",
+      "topic": "Diffusion",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 110,
+      "question": "Which of the following is a component of all amino acids?",
+      "options": [
+        "Phosphate group",
+        "Fatty acid chain",
+        "Carboxyl group",
+        "Pentose sugar"
+      ],
+      "answer": "C",
+      "topic": "Biological molecules / Amino acids",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 111,
+      "question": "In enzyme activity, what does the term 'activation energy' refer to?",
+      "options": [
+        "Energy released by the enzyme",
+        "Energy required to start a reaction",
+        "Energy stored in substrates",
+        "Energy stored in products"
+      ],
+      "answer": "B",
+      "topic": "Enzymes / Activation energy",
+      "marks": 1
+    }
