@@ -1807,3 +1807,45 @@
       "topic": "Carbohydrates / Bonds",
       "marks": 1
     }
+{
+      "paper": "Jan 2022",
+      "number": 130,
+      "question": "Which of the following increases the rate of enzyme-catalysed reactions up to an optimum?",
+      "options": [
+        "Increasing pH indefinitely",
+        "Increasing temperature to the optimum",
+        "Decreasing substrate concentration",
+        "Increasing enzyme denaturation"
+      ],
+      "answer": "B",
+      "topic": "Enzymes / Temperature",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 131,
+      "question": "Which feature is present in both plant and animal cells?",
+      "options": [
+        "Cell wall",
+        "Chloroplasts",
+        "Large permanent vacuole",
+        "Mitochondria"
+      ],
+      "answer": "D",
+      "topic": "Cell structure / Plant vs animal",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 132,
+      "question": "Which molecule forms the basis of biological membranes?",
+      "options": [
+        "Cellulose",
+        "Glycogen",
+        "Phospholipids",
+        "Starch"
+      ],
+      "answer": "C",
+      "topic": "Cell membranes / Phospholipids",
+      "marks": 1
+    }
