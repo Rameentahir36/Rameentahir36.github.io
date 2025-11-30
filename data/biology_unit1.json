@@ -379,3 +379,45 @@
       "topic": "Transport across membranes",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 28,
+      "question": "Which molecule is responsible for maintaining turgor pressure in plant cells?",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Water",
+        "ATP"
+      ],
+      "answer": "C",
+      "topic": "Water / Plants",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 29,
+      "question": "Which type of microscope provides the highest resolution?",
+      "options": [
+        "Light microscope",
+        "Transmission electron microscope",
+        "Scanning electron microscope",
+        "Dissecting microscope"
+      ],
+      "answer": "B",
+      "topic": "Microscopy",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 30,
+      "question": "Which structure controls the movement of substances into and out of the nucleus?",
+      "options": [
+        "Nuclear envelope",
+        "Nuclear pores",
+        "Centrioles",
+        "Chromatin"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Nucleus",
+      "marks": 1
+    }
