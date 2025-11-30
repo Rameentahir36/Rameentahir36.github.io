@@ -1597,3 +1597,45 @@
       "topic": "Carbohydrates / Condensation reactions",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 115,
+      "question": "Which organelle packages proteins into vesicles for secretion?",
+      "options": [
+        "Golgi apparatus",
+        "Ribosome",
+        "Nucleus",
+        "Lysosome"
+      ],
+      "answer": "A",
+      "topic": "Cell organelles / Golgi",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 116,
+      "question": "Which statement describes the fluid mosaic model of the cell membrane?",
+      "options": [
+        "Proteins are fixed in place within the bilayer",
+        "Phospholipids can move laterally within the bilayer",
+        "The membrane is completely rigid",
+        "Proteins form a complete barrier around the cell"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes / Fluid mosaic model",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 117,
+      "question": "Which type of bond forms between amino acids during protein synthesis?",
+      "options": [
+        "Glycosidic bond",
+        "Peptide bond",
+        "Hydrogen bond",
+        "Ionic bond"
+      ],
+      "answer": "B",
+      "topic": "Proteins / Peptide bond",
+      "marks": 1
+    }
