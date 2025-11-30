@@ -211,3 +211,45 @@
       "topic": "Membranes",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 16,
+      "question": "Which organelle contains circular DNA and 70S ribosomes?",
+      "options": [
+        "Golgi apparatus",
+        "Mitochondrion",
+        "Rough endoplasmic reticulum",
+        "Lysosome"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Mitochondria",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 17,
+      "question": "Which statement describes the role of cholesterol in cell membranes?",
+      "options": [
+        "It increases membrane fluidity at high temperatures",
+        "It decreases membrane strength",
+        "It stabilises the membrane and reduces permeability",
+        "It is involved in active transport"
+      ],
+      "answer": "C",
+      "topic": "Membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 18,
+      "question": "Which molecule is formed when two monosaccharides join together?",
+      "options": [
+        "Polysaccharide",
+        "Disaccharide",
+        "Protein",
+        "Nucleotide"
+      ],
+      "answer": "B",
+      "topic": "Carbohydrates",
+      "marks": 1
+    }
