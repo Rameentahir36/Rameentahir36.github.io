@@ -86,3 +86,45 @@
       "topic": "Ionisation energy",
       "marks": 1
     },
+{
+      "paper": "Specimen 2018",
+      "number": 7,
+      "question": "Which molecule is non-polar?",
+      "options": [
+        "H₂O",
+        "CHCl₃",
+        "CO₂",
+        "NH₃"
+      ],
+      "answer": "C",
+      "topic": "Bond polarity / Shapes",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 8,
+      "question": "Which statement about exothermic reactions is correct?",
+      "options": [
+        "Energy is absorbed from the surroundings",
+        "Products have higher energy than reactants",
+        "ΔH is negative",
+        "Bonds in the reactants are stronger than in the products"
+      ],
+      "answer": "C",
+      "topic": "Energetics",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 9,
+      "question": "Which compound shows E–Z isomerism?",
+      "options": [
+        "CH₂=CH₂",
+        "CH₃CH=CH₂",
+        "CH₃CH=CHCH₃",
+        "CH₃CH₂CH₃"
+      ],
+      "answer": "C",
+      "topic": "Isomerism",
+      "marks": 1
+    },
