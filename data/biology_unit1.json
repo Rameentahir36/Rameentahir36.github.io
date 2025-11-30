@@ -253,3 +253,45 @@
       "topic": "Carbohydrates",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 19,
+      "question": "Which molecule is the main structural component of plant cell walls?",
+      "options": [
+        "Glycogen",
+        "Cellulose",
+        "Starch",
+        "Chitin"
+      ],
+      "answer": "B",
+      "topic": "Carbohydrates / Cell walls",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 20,
+      "question": "Which of the following is a role of water in living organisms?",
+      "options": [
+        "Provides energy",
+        "Acts as a solvent in metabolic reactions",
+        "Main component of glycogen",
+        "Forms peptide bonds"
+      ],
+      "answer": "B",
+      "topic": "Water",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 21,
+      "question": "Which type of bond joins amino acids together in a polypeptide?",
+      "options": [
+        "Hydrogen bond",
+        "Peptide bond",
+        "Ionic bond",
+        "Glycosidic bond"
+      ],
+      "answer": "B",
+      "topic": "Proteins",
+      "marks": 1
+    }
