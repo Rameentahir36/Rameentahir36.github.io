@@ -1051,3 +1051,45 @@
       "topic": "Transport / Diffusion",
       "marks": 1
     }
+{
+      "paper": "Jan 2020",
+      "number": 76,
+      "question": "Which type of molecule contains peptide bonds?",
+      "options": [
+        "Carbohydrates",
+        "Lipids",
+        "Proteins",
+        "Nucleic acids"
+      ],
+      "answer": "C",
+      "topic": "Proteins / Bonds",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2020",
+      "number": 77,
+      "question": "Which component of the cell membrane helps maintain fluidity at different temperatures?",
+      "options": [
+        "Phospholipids",
+        "Cholesterol",
+        "Glycolipids",
+        "Channel proteins"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2020",
+      "number": 78,
+      "question": "Which organelle contains digestive enzymes?",
+      "options": [
+        "Golgi apparatus",
+        "Lysosomes",
+        "Smooth ER",
+        "Chloroplasts"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Lysosomes",
+      "marks": 1
+    }
