@@ -589,3 +589,45 @@
       "topic": "Cell structure / Ribosomes",
       "marks": 1
     }
+{
+      "paper": "Jan 2021",
+      "number": 43,
+      "question": "Which of the following best describes a saturated fatty acid?",
+      "options": [
+        "Contains double bonds between carbon atoms",
+        "Contains only single bonds between carbon atoms",
+        "Forms part of nucleic acids",
+        "Contains a phosphate group"
+      ],
+      "answer": "B",
+      "topic": "Lipids",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2021",
+      "number": 44,
+      "question": "Which organelle is involved in the production of proteins for secretion?",
+      "options": [
+        "Smooth ER",
+        "Rough ER",
+        "Lysosome",
+        "Chloroplast"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Rough ER",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2021",
+      "number": 45,
+      "question": "Which type of bond stabilises the secondary structure of proteins?",
+      "options": [
+        "Peptide bonds",
+        "Hydrogen bonds",
+        "Ionic bonds",
+        "Disulfide bridges"
+      ],
+      "answer": "B",
+      "topic": "Proteins",
+      "marks": 1
+    }
