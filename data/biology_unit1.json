@@ -1,3 +1,45 @@
 {
   "unit": "Biology Unit 1",
   "questions": [
+{
+      "paper": "Jan 2024",
+      "number": 1,
+      "question": "Which organelle is responsible for the synthesis of lipids in a eukaryotic cell?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Ribosomes"
+      ],
+      "answer": "B",
+      "topic": "Cell structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 2,
+      "question": "Which molecule forms the basic structure of all biological membranes?",
+      "options": [
+        "Phospholipids",
+        "Triglycerides",
+        "Amino acids",
+        "Monosaccharides"
+      ],
+      "answer": "A",
+      "topic": "Biological molecules",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 3,
+      "question": "What is the function of lysosomes?",
+      "options": [
+        "Protein synthesis",
+        "Intracellular digestion",
+        "ATP production",
+        "Transport of lipids"
+      ],
+      "answer": "B",
+      "topic": "Cell structure",
+      "marks": 1
+    }
