@@ -841,3 +841,45 @@
       "topic": "Digestion / Absorption",
       "marks": 1
     }
+{
+      "paper": "Jun 2022",
+      "number": 61,
+      "question": "Which type of microscope is required to observe ribosomes?",
+      "options": [
+        "Light microscope",
+        "Transmission electron microscope",
+        "Dissecting microscope",
+        "Scanning tunneling microscope"
+      ],
+      "answer": "B",
+      "topic": "Microscopy",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2022",
+      "number": 62,
+      "question": "Which statement correctly describes facilitated diffusion?",
+      "options": [
+        "It requires ATP",
+        "It moves substances against their concentration gradient",
+        "It uses carrier or channel proteins",
+        "It is the movement of water only"
+      ],
+      "answer": "C",
+      "topic": "Membrane transport",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2022",
+      "number": 63,
+      "question": "Which component of a phospholipid is hydrophilic?",
+      "options": [
+        "Fatty acid tails",
+        "Phosphate head",
+        "Both head and tails",
+        "Neither head nor tails"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes",
+      "marks": 1
+    }
