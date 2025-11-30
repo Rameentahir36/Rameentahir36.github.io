@@ -925,3 +925,45 @@
       "topic": "Plant cells",
       "marks": 1
     }
+{
+      "paper": "Jun 2022",
+      "number": 67,
+      "question": "Which enzyme breaks hydrogen bonds between DNA bases during replication?",
+      "options": [
+        "Ligase",
+        "Helicase",
+        "DNA polymerase",
+        "RNA polymerase"
+      ],
+      "answer": "B",
+      "topic": "DNA replication",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2022",
+      "number": 68,
+      "question": "Which molecule is formed when amino acids join together?",
+      "options": [
+        "Polysaccharide",
+        "Polypeptide",
+        "Triglyceride",
+        "Nucleotide"
+      ],
+      "answer": "B",
+      "topic": "Proteins / Polypeptides",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2022",
+      "number": 69,
+      "question": "Which organelle is responsible for packaging and modifying proteins?",
+      "options": [
+        "Rough ER",
+        "Golgi apparatus",
+        "Mitochondria",
+        "Ribosomes"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Golgi",
+      "marks": 1
+    }
