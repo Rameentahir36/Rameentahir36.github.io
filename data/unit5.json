@@ -254,3 +254,31 @@
       "topic": "Alkenes / Tests",
       "marks": 1
     },
+{
+      "paper": "Specimen 2018",
+      "number": 19,
+      "question": "Which substance has the strongest intermolecular forces?",
+      "options": [
+        "H₂",
+        "O₂",
+        "H₂O",
+        "CO₂"
+      ],
+      "answer": "C",
+      "topic": "Intermolecular forces",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 20,
+      "question": "Which of these statements describes an endothermic reaction?",
+      "options": [
+        "Heat energy is released",
+        "Products have lower energy than reactants",
+        "Temperature of surroundings increases",
+        "ΔH is positive"
+      ],
+      "answer": "D",
+      "topic": "Energetics",
+      "marks": 1
+    }
