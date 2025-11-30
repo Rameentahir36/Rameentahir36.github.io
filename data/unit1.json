@@ -50,3 +50,117 @@
       "topic": "Ionisation energy",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 7,
+      "question": "Define empirical formula.",
+      "answer": "The simplest whole-number ratio of atoms of each element in a compound.",
+      "topic": "Empirical formula",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 8,
+      "question": "A compound contains 40% sulfur, 60% oxygen by mass. Determine its empirical formula.",
+      "answer": "S: 40/32 = 1.25; O: 60/16 = 3.75; ratio = 1:3 → empirical formula = SO₃",
+      "topic": "Empirical formula",
+      "marks": 3
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 9,
+      "question": "Describe the movement of ions in electrolysis of molten sodium chloride.",
+      "answer": "Na⁺ ions move to the cathode and gain electrons. Cl⁻ ions move to the anode and lose electrons.",
+      "topic": "Electrolysis",
+      "marks": 2
+    },
+{
+      "paper": "Jan 2023",
+      "number": 10,
+      "question": "Explain why ionic compounds have high melting points.",
+      "answer": "They have strong electrostatic attractions between oppositely charged ions which require large amounts of energy to break.",
+      "topic": "Bonding",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 11,
+      "question": "Describe the shape of a water molecule and explain why it has that shape.",
+      "answer": "Bent (104.5°). Two bonding pairs and two lone pairs; lone pairs repel more strongly than bonding pairs.",
+      "topic": "Bonding and structure",
+      "marks": 3
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 12,
+      "question": "State the meaning of the term electronegativity.",
+      "answer": "The ability of an atom to attract the bonding electrons in a covalent bond.",
+      "topic": "Bond polarity",
+      "marks": 1
+    },
+{
+      "paper": "Jan 2023",
+      "number": 13,
+      "question": "Explain why hydrogen chloride is a polar molecule.",
+      "answer": "Chlorine is more electronegative than hydrogen, creating a dipole with δ− on Cl and δ+ on H.",
+      "topic": "Bond polarity",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 14,
+      "question": "State and explain the trend in boiling points of noble gases from helium to xenon.",
+      "answer": "Boiling points increase due to increasing number of electrons, causing stronger London dispersion forces.",
+      "topic": "Intermolecular forces",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 15,
+      "question": "Explain why graphite conducts electricity but diamond does not.",
+      "answer": "Graphite has delocalised electrons between layers; diamond has no delocalised electrons.",
+      "topic": "Structure and bonding",
+      "marks": 2
+    },
+{
+      "paper": "Jan 2023",
+      "number": 16,
+      "question": "Define the term metallic bonding.",
+      "answer": "Electrostatic attraction between positive metal ions and a sea of delocalised electrons.",
+      "topic": "Metallic bonding",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 17,
+      "question": "Explain why magnesium has a higher melting point than sodium.",
+      "answer": "Mg²⁺ ions have a greater charge and more delocalised electrons, resulting in stronger metallic bonding.",
+      "topic": "Metallic bonding",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 18,
+      "question": "State the ideal gas equation.",
+      "answer": "pV = nRT",
+      "topic": "Gas laws",
+      "marks": 1
+    },
+{
+      "paper": "Jan 2023",
+      "number": 19,
+      "question": "Calculate the number of moles in 4.8 g of magnesium. (Ar Mg = 24.0)",
+      "answer": "n = 4.8 / 24.0 = 0.20 mol",
+      "topic": "Amount of substance",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 20,
+      "question": "State one use of mass spectrometry.",
+      "answer": "To determine the relative isotopic abundances of elements.",
+      "topic": "Mass spectrometry",
+      "marks": 1
+    }
+]
+}
