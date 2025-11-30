@@ -26,3 +26,27 @@
       "topic": "Alkanes",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 4,
+      "question": "State the conditions required for the catalytic cracking of alkanes.",
+      "answer": "High temperature and a zeolite catalyst.",
+      "topic": "Alkanes / Cracking",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 5,
+      "question": "Explain why cracking is an important process in the petroleum industry.",
+      "answer": "It converts long-chain hydrocarbons into more useful shorter-chain alkanes and alkenes used for fuels and chemical feedstock.",
+      "topic": "Cracking",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 6,
+      "question": "State the meaning of the term structural isomer.",
+      "answer": "Compounds with the same molecular formula but different structural formulae.",
+      "topic": "Isomerism",
+      "marks": 1
+    },
