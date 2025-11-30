@@ -212,3 +212,45 @@
       "topic": "Kinetics",
       "marks": 1
     },
+{
+      "paper": "Specimen 2018",
+      "number": 16,
+      "question": "Which compound would produce a carboxylic acid when oxidised?",
+      "options": [
+        "A primary alcohol",
+        "A secondary alcohol",
+        "A tertiary alcohol",
+        "An alkene"
+      ],
+      "answer": "A",
+      "topic": "Organic chemistry / Oxidation",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 17,
+      "question": "Which of the following substances contains ionic bonding?",
+      "options": [
+        "HCl",
+        "CH₄",
+        "NaCl",
+        "Cl₂"
+      ],
+      "answer": "C",
+      "topic": "Bonding",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 18,
+      "question": "Which compound will show a positive result with bromine water?",
+      "options": [
+        "Ethane",
+        "Ethanol",
+        "Ethene",
+        "Ethanoic acid"
+      ],
+      "answer": "C",
+      "topic": "Alkenes / Tests",
+      "marks": 1
+    },
