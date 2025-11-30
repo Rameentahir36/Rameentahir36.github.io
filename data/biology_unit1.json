@@ -1219,3 +1219,45 @@
       "topic": "DNA → RNA / Transcription",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 88,
+      "question": "Which of the following is an example of active transport?",
+      "options": [
+        "Water moving into a cell by osmosis",
+        "Ions moving through a channel protein",
+        "Glucose being absorbed into the blood against its concentration gradient",
+        "Oxygen diffusing into red blood cells"
+      ],
+      "answer": "C",
+      "topic": "Cell transport / Active transport",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 89,
+      "question": "Which feature is found in both prokaryotic and eukaryotic cells?",
+      "options": [
+        "Nucleus",
+        "Linear DNA",
+        "Ribosomes",
+        "Mitochondria"
+      ],
+      "answer": "C",
+      "topic": "Prokaryotic vs eukaryotic",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 90,
+      "question": "Which molecule stores genetic information?",
+      "options": [
+        "ATP",
+        "DNA",
+        "Glucose",
+        "tRNA"
+      ],
+      "answer": "B",
+      "topic": "Nucleic acids",
+      "marks": 1
+    }
