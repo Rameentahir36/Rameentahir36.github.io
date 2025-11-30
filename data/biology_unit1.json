@@ -1387,3 +1387,45 @@
       "topic": "Enzymes",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 100,
+      "question": "Which molecule is the main energy currency of cells?",
+      "options": [
+        "Glucose",
+        "ATP",
+        "NAD",
+        "GTP"
+      ],
+      "answer": "B",
+      "topic": "ATP / Energy",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 101,
+      "question": "Which process describes water moving from a high water potential to a low water potential?",
+      "options": [
+        "Active transport",
+        "Diffusion",
+        "Facilitated diffusion",
+        "Osmosis"
+      ],
+      "answer": "D",
+      "topic": "Osmosis",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 102,
+      "question": "Which organelle is responsible for aerobic respiration?",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Smooth ER"
+      ],
+      "answer": "B",
+      "topic": "Respiration / Organelles",
+      "marks": 1
+    }
