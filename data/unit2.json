@@ -50,3 +50,27 @@
       "topic": "Energetics",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 7,
+      "question": "State the meaning of the term standard enthalpy of combustion.",
+      "answer": "The enthalpy change when 1 mole of a substance is completely burned in oxygen under standard conditions.",
+      "topic": "Energetics",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 8,
+      "question": "Explain why bond breaking is endothermic.",
+      "answer":: "Energy must be supplied to overcome attractive forces between atoms in a bond.",
+      "topic": "Energetics",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 9,
+      "question": "Define the term catalyst.",
+      "answer": "A substance that increases the rate of reaction by providing an alternative pathway with lower activation energy, and is chemically unchanged at the end.",
+      "topic": "Kinetics",
+      "marks": 2
+    },
