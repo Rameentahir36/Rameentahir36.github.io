@@ -1135,3 +1135,45 @@
       "topic": "Plant cells / Photosynthesis",
       "marks": 1
     }
+{
+      "paper": "Jan 2023",
+      "number": 82,
+      "question": "Which statement describes the role of ribosomes?",
+      "options": [
+        "ATP synthesis",
+        "Protein synthesis",
+        "Lipid breakdown",
+        "DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Ribosomes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 83,
+      "question": "Which molecule forms the basis of all cell membranes?",
+      "options": [
+        "Triglycerides",
+        "Phospholipids",
+        "Steroids",
+        "Amino acids"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 84,
+      "question": "Which organelle packages proteins into vesicles for secretion?",
+      "options": [
+        "Rough ER",
+        "Golgi apparatus",
+        "Lysosomes",
+        "Nucleus"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Golgi",
+      "marks": 1
+    }
