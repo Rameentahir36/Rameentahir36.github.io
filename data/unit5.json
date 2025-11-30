@@ -128,3 +128,45 @@
       "topic": "Isomerism",
       "marks": 1
     },
+{
+      "paper": "Specimen 2018",
+      "number": 10,
+      "question": "Which reagent is used to distinguish between aldehydes and ketones?",
+      "options": [
+        "Acidified potassium dichromate(VI)",
+        "Tollens’ reagent",
+        "Benedict’s solution",
+        "Concentrated sulfuric acid"
+      ],
+      "answer": "B",
+      "topic": "Aldehydes / Tests",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 11,
+      "question": "Which Group 2 compound is least soluble in water?",
+      "options": [
+        "Mg(OH)₂",
+        "Ca(OH)₂",
+        "Sr(OH)₂",
+        "Ba(OH)₂"
+      ],
+      "answer": "A",
+      "topic": "Group 2",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 12,
+      "question": "Which halogen is the strongest oxidising agent?",
+      "options": [
+        "I₂",
+        "Br₂",
+        "Cl₂",
+        "F₂"
+      ],
+      "answer": "D",
+      "topic": "Halogens",
+      "marks": 1
+    },
