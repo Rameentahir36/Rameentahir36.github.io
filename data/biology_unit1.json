@@ -1555,3 +1555,45 @@
       "topic": "Enzymes / Activation energy",
       "marks": 1
     }
+{
+      "paper": "Jun 2023",
+      "number": 112,
+      "question": "Which of the following structures is found in plant cells but NOT in animal cells?",
+      "options": [
+        "Mitochondria",
+        "Ribosomes",
+        "Cell wall",
+        "Golgi apparatus"
+      ],
+      "answer": "C",
+      "topic": "Plant vs animal cells",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 113,
+      "question": "Which molecule forms the main structural component of cell membranes?",
+      "options": [
+        "Phospholipids",
+        "Glycogen",
+        "Cellulose",
+        "Starch"
+      ],
+      "answer": "A",
+      "topic": "Cell membranes / Phospholipids",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2023",
+      "number": 114,
+      "question": "Which type of reaction joins two monosaccharides to form a disaccharide?",
+      "options": [
+        "Hydrolysis",
+        "Condensation",
+        "Neutralisation",
+        "Oxidation"
+      ],
+      "answer": "B",
+      "topic": "Carbohydrates / Condensation reactions",
+      "marks": 1
+    }
