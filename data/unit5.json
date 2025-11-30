@@ -170,3 +170,45 @@
       "topic": "Halogens",
       "marks": 1
     },
+{
+      "paper": "Specimen 2018",
+      "number": 13,
+      "question": "Which species acts as the reducing agent in the reaction?",
+      "options": [
+        "The species that gains electrons",
+        "The species that loses electrons",
+        "The species with the highest oxidation number",
+        "The spectator ion"
+      ],
+      "answer": "B",
+      "topic": "Redox",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 14,
+      "question": "Which statement about equilibrium is correct?",
+      "options": [
+        "Forward and reverse reactions stop at equilibrium",
+        "Concentrations of reactants and products change continuously",
+        "Rate of forward reaction equals rate of reverse reaction",
+        "Equilibrium constant changes with pressure"
+      ],
+      "answer": "C",
+      "topic": "Equilibrium",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 15,
+      "question": "Which of the following conditions increases the rate of a reaction?",
+      "options": [
+        "Decreasing temperature",
+        "Decreasing concentration",
+        "Removing a catalyst",
+        "Increasing surface area"
+      ],
+      "answer": "D",
+      "topic": "Kinetics",
+      "marks": 1
+    },
