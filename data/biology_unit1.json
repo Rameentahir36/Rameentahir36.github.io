@@ -1093,3 +1093,45 @@
       "topic": "Cell structure / Lysosomes",
       "marks": 1
     }
+{
+      "paper": "Jan 2023",
+      "number": 79,
+      "question": "Which molecule is the main energy currency of cells?",
+      "options": [
+        "ATP",
+        "ADP",
+        "Glucose",
+        "NADH"
+      ],
+      "answer": "A",
+      "topic": "Energy / ATP",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 80,
+      "question": "Which bond holds complementary DNA bases together?",
+      "options": [
+        "Peptide bonds",
+        "Ionic bonds",
+        "Hydrogen bonds",
+        "Phosphodiester bonds"
+      ],
+      "answer": "C",
+      "topic": "DNA structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 81,
+      "question": "Which organelle is responsible for photosynthesis?",
+      "options": [
+        "Mitochondria",
+        "Chloroplasts",
+        "Golgi vesicles",
+        "Smooth ER"
+      ],
+      "answer": "B",
+      "topic": "Plant cells / Photosynthesis",
+      "marks": 1
+    }
