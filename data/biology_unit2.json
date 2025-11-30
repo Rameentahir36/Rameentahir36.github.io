@@ -1,0 +1,45 @@
+{
+  "unit": "Biology Unit 2",
+  "questions": [
+    {
+      "paper": "Jan 2024",
+      "number": 1,
+      "question": "What is the role of DNA helicase in DNA replication?",
+      "options": [
+        "Join nucleotides together",
+        "Break hydrogen bonds between bases",
+        "Form phosphodiester bonds",
+        "Add free nucleotides to the new strand"
+      ],
+      "answer": "B",
+      "topic": "DNA replication",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 2,
+      "question": "Which base pairs with adenine in DNA?",
+      "options": [
+        "Cytosine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "answer": "C",
+      "topic": "DNA structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 3,
+      "question": "What term describes different versions of the same gene?",
+      "options": [
+        "Loci",
+        "Alleles",
+        "Chromatids",
+        "Genotypes"
+      ],
+      "answer": "B",
+      "topic": "Genes / Alleles",
+      "marks": 1
+    }
