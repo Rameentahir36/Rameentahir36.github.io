@@ -883,3 +883,45 @@
       "topic": "Cell membranes",
       "marks": 1
     }
+{
+      "paper": "Jun 2022",
+      "number": 64,
+      "question": "Which statement best describes the primary structure of a protein?",
+      "options": [
+        "The sequence of amino acids in a polypeptide chain",
+        "The folding of the polypeptide into α-helices and β-sheets",
+        "The three-dimensional shape of the protein",
+        "The association of more than one polypeptide chain"
+      ],
+      "answer": "A",
+      "topic": "Proteins / Structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2022",
+      "number": 65,
+      "question": "What is the role of tRNA during translation?",
+      "options": [
+        "Carrying the genetic code from nucleus to cytoplasm",
+        "Joining amino acids together",
+        "Carrying specific amino acids to the ribosome",
+        "Catalysing peptide bond formation"
+      ],
+      "answer": "C",
+      "topic": "Protein synthesis",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2022",
+      "number": 66,
+      "question": "Which structure in plant cells contains sap?",
+      "options": [
+        "Chloroplast",
+        "Central vacuole",
+        "Nucleus",
+        "Mitochondrion"
+      ],
+      "answer": "B",
+      "topic": "Plant cells",
+      "marks": 1
+    }
