@@ -26,3 +26,27 @@
       "topic": "Atomic structure",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 4,
+      "question": "State the trend in first ionisation energy across Period 3.",
+      "answer": "General increase due to increasing nuclear charge with similar shielding.",
+      "topic": "Ionisation energy",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 5,
+      "question": "Explain why the first ionisation energy of aluminium is lower than that of magnesium.",
+      "answer": "Aluminium has its outer electron in the 3p subshell which is higher in energy than the 3s subshell in magnesium.",
+      "topic": "Ionisation energy",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 6,
+      "question": "Explain why sulfur has a lower first ionisation energy than phosphorus.",
+      "answer": "Paired electrons in a 3p orbital in sulfur repel each other, reducing the energy needed to remove one.",
+      "topic": "Ionisation energy",
+      "marks": 2
+    },
