@@ -2,3 +2,27 @@
   "unit": "CH02",
   "type": "structured",
   "questions": [
+{
+      "paper": "Jan 2023",
+      "number": 1,
+      "question": "Define the term activation energy.",
+      "answer": "The minimum amount of energy particles need to collide with for a reaction to occur.",
+      "topic": "Kinetics",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 2,
+      "question": "Explain why increasing temperature increases the rate of reaction.",
+      "answer": "Particles have more kinetic energy, so a greater proportion have energy ≥ activation energy, leading to more frequent successful collisions.",
+      "topic": "Kinetics",
+      "marks": 3
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 3,
+      "question": "State Le Chatelier’s principle.",
+      "answer": "If a change is applied to a system in equilibrium, the position of equilibrium shifts to oppose that change.",
+      "topic": "Equilibrium",
+      "marks": 1
+    },
