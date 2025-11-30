@@ -85,3 +85,45 @@
       "topic": "Enzymes",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 7,
+      "question": "Which statement best describes osmosis?",
+      "options": [
+        "Movement of water from a high solute concentration to a low solute concentration",
+        "Movement of water from a low solute concentration to a high solute concentration through a partially permeable membrane",
+        "Movement of solute molecules through a membrane without energy",
+        "Active movement of water using ATP"
+      ],
+      "answer": "B",
+      "topic": "Cell transport",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 8,
+      "question": "What is the function of the Golgi apparatus?",
+      "options": [
+        "Protein synthesis",
+        "Modification and packaging of proteins",
+        "Production of ribosomes",
+        "Lipid digestion"
+      ],
+      "answer": "B",
+      "topic": "Cell structure",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 9,
+      "question": "Which process describes the movement of molecules down their concentration gradient?",
+      "options": [
+        "Active transport",
+        "Exocytosis",
+        "Facilitated diffusion",
+        "Endocytosis"
+      ],
+      "answer": "C",
+      "topic": "Transport across membranes",
+      "marks": 1
+    }
