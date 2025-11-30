@@ -295,3 +295,45 @@
       "topic": "Proteins",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 22,
+      "question": "Which type of RNA carries amino acids to the ribosome during protein synthesis?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "snRNA"
+      ],
+      "answer": "B",
+      "topic": "Protein synthesis / RNA",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 23,
+      "question": "Which component of DNA contains nitrogen?",
+      "options": [
+        "Deoxyribose sugar",
+        "Phosphate group",
+        "Organic base",
+        "Hydrogen bonds"
+      ],
+      "answer": "C",
+      "topic": "Nucleic acids",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 24,
+      "question": "What happens during the process of transcription?",
+      "options": [
+        "An mRNA strand is produced from a DNA template",
+        "A polypeptide is assembled from amino acids",
+        "DNA is replicated into two identical strands",
+        "Chromosomes are separated during mitosis"
+      ],
+      "answer": "A",
+      "topic": "Transcription / DNA & RNA",
+      "marks": 1
+    }
