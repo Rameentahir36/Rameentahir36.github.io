@@ -421,3 +421,45 @@
       "topic": "Cell structure / Nucleus",
       "marks": 1
     }
+{
+      "paper": "Jun 2019",
+      "number": 31,
+      "question": "Which term describes the engulfing of large particles by a cell?",
+      "options": [
+        "Osmosis",
+        "Phagocytosis",
+        "Active transport",
+        "Pinocytosis"
+      ],
+      "answer": "B",
+      "topic": "Cell transport",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 32,
+      "question": "Which molecule forms the hydrophobic interior of a cell membrane?",
+      "options": [
+        "Phosphate heads",
+        "Fatty acid tails",
+        "Glycoproteins",
+        "Cholesterol"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 33,
+      "question": "Which organelle is responsible for producing ATP in aerobic respiration?",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Nucleus",
+        "Rough ER"
+      ],
+      "answer": "B",
+      "topic": "Respiration / Mitochondria",
+      "marks": 1
+    }
