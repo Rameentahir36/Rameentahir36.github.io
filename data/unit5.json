@@ -2,3 +2,45 @@
   "unit": "CH05",
   "type": "mcq",
   "questions": [
+{
+      "paper": "Specimen 2018",
+      "number": 1,
+      "question": "Which of the following compounds has the highest boiling point?",
+      "options": [
+        "CH4",
+        "C2H6",
+        "C3H8",
+        "C4H10"
+      ],
+      "answer": "D",
+      "topic": "Intermolecular forces",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 2,
+      "question": "Which statement about a catalyst is correct?",
+      "options": [
+        "It increases the activation energy",
+        "It provides an alternative pathway with lower activation energy",
+        "It shifts the position of equilibrium",
+        "It is used up in the reaction"
+      ],
+      "answer": "B",
+      "topic": "Kinetics",
+      "marks": 1
+    },
+    {
+      "paper": "Specimen 2018",
+      "number": 3,
+      "question": "Which of the following is an empirical formula?",
+      "options": [
+        "C2H6O2",
+        "C6H12O6",
+        "CH2O",
+        "C4H10"
+      ],
+      "answer": "C",
+      "topic": "Formula calculations",
+      "marks": 1
+    },
