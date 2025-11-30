@@ -74,3 +74,27 @@
       "topic": "Halogens",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 10,
+      "question": "Explain why halogens have increasing boiling points down the group.",
+      "answer": "The number of electrons increases, causing stronger London dispersion forces which require more energy to overcome.",
+      "topic": "Halogens",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 11,
+      "question": "Describe the trend in oxidising power of halogens down the group.",
+      "answer": "Oxidising power decreases down the group.",
+      "topic": "Halogens",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 12,
+      "question": "Explain why fluorine is the strongest oxidising agent among the halogens.",
+      "answer": "It has the smallest atomic radius and strongest attraction for electrons, making it most effective at gaining electrons.",
+      "topic": "Halogens",
+      "marks": 2
+    },
