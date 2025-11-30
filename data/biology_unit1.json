@@ -547,3 +547,45 @@
       "topic": "Cell structure / Golgi",
       "marks": 1
     }
+{
+      "paper": "Jun 2019",
+      "number": 40,
+      "question": "Which process describes the bulk transport of liquids into a cell?",
+      "options": [
+        "Phagocytosis",
+        "Pinocytosis",
+        "Exocytosis",
+        "Active transport"
+      ],
+      "answer": "B",
+      "topic": "Cell transport",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 41,
+      "question": "Which structure is found in plant cells but not animal cells?",
+      "options": [
+        "Ribosomes",
+        "Mitochondria",
+        "Cell wall",
+        "Plasma membrane"
+      ],
+      "answer": "C",
+      "topic": "Plant vs animal cells",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 42,
+      "question": "What is the function of ribosomes?",
+      "options": [
+        "Lipid synthesis",
+        "Protein synthesis",
+        "ATP production",
+        "DNA replication"
+      ],
+      "answer": "B",
+      "topic": "Cell structure / Ribosomes",
+      "marks": 1
+    }
