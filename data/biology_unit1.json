@@ -463,3 +463,45 @@
       "topic": "Respiration / Mitochondria",
       "marks": 1
     }
+{
+      "paper": "Jun 2019",
+      "number": 34,
+      "question": "Which structure in a plant cell stores starch grains?",
+      "options": [
+        "Chloroplasts",
+        "Amyloplasts",
+        "Vacuole",
+        "Golgi vesicles"
+      ],
+      "answer": "B",
+      "topic": "Plant cells / Storage",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 35,
+      "question": "Which statement correctly describes an enzyme’s tertiary structure?",
+      "options": [
+        "It is determined by the sequence of amino acids",
+        "It involves hydrogen bonds only",
+        "It is maintained only by ionic bonds",
+        "It is unaffected by pH"
+      ],
+      "answer": "A",
+      "topic": "Proteins / Enzymes",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 36,
+      "question": "Which process produces two genetically identical daughter cells?",
+      "options": [
+        "Meiosis",
+        "Binary fission",
+        "Mitosis",
+        "Fertilisation"
+      ],
+      "answer": "C",
+      "topic": "Cell division",
+      "marks": 1
+    }
