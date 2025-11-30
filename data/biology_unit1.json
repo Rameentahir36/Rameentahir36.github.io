@@ -631,3 +631,45 @@
       "topic": "Proteins",
       "marks": 1
     }
+{
+      "paper": "Jan 2021",
+      "number": 46,
+      "question": "Which carbohydrate is the main energy store in animals?",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "Sucrose"
+      ],
+      "answer": "C",
+      "topic": "Carbohydrates",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2021",
+      "number": 47,
+      "question": "What is the role of the enzyme DNA polymerase?",
+      "options": [
+        "Unwinding the DNA helix",
+        "Joining nucleotides to form a new DNA strand",
+        "Reforming hydrogen bonds between bases",
+        "Synthesising mRNA"
+      ],
+      "answer": "B",
+      "topic": "DNA replication",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2021",
+      "number": 48,
+      "question": "Which component of cell membranes acts as a receptor for hormones?",
+      "options": [
+        "Cholesterol",
+        "Glycoproteins",
+        "Fatty acid tails",
+        "Phosphate heads"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes",
+      "marks": 1
+    }
