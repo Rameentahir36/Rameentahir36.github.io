@@ -43,3 +43,45 @@
       "topic": "Cell structure",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 4,
+      "question": "Which type of bond holds the two strands of a DNA molecule together?",
+      "options": [
+        "Ionic bonds",
+        "Hydrogen bonds",
+        "Peptide bonds",
+        "Glycosidic bonds"
+      ],
+      "answer": "B",
+      "topic": "Nucleic acids",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 5,
+      "question": "Which of the following correctly describes an enzyme's active site?",
+      "options": [
+        "A region that permanently changes shape during catalysis",
+        "A region with a specific shape that binds to a substrate",
+        "A region that binds to any molecule of similar size",
+        "A region made entirely of fatty acids"
+      ],
+      "answer": "B",
+      "topic": "Enzymes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 6,
+      "question": "Which statement describes the induced-fit model of enzyme action?",
+      "options": [
+        "The enzyme and substrate fit perfectly without any change in shape",
+        "The enzyme changes shape slightly to fit the substrate more closely",
+        "The substrate changes shape to fit the enzyme",
+        "The active site is rigid and does not alter"
+      ],
+      "answer": "B",
+      "topic": "Enzymes",
+      "marks": 1
+    }
