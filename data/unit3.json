@@ -2,3 +2,27 @@
   "unit": "CH03",
   "type": "structured",
   "questions": [
+{
+      "paper": "Jan 2023",
+      "number": 1,
+      "question": "Define the term oxidation.",
+      "answer": "Loss of electrons or increase in oxidation number.",
+      "topic": "Redox",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 2,
+      "question": "Define the term reduction.",
+      "answer": "Gain of electrons or decrease in oxidation number.",
+      "topic": "Redox",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 3,
+      "question": "State what is meant by a reducing agent.",
+      "answer": "A substance that donates electrons and is itself oxidised.",
+      "topic": "Redox",
+      "marks": 1
+    },
