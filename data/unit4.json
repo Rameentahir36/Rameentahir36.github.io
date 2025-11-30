@@ -146,3 +146,19 @@
       "topic": "Aldehydes / Oxidation",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 19,
+      "question": "Write the equation for the combustion of ethanol in excess oxygen.",
+      "answer": "C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O",
+      "topic": "Alcohols / Combustion",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 20,
+      "question": "State the type of reaction that converts an alkene into an alkane.",
+      "answer": "Hydrogenation (addition of hydrogen).",
+      "topic": "Alkenes / Hydrogenation",
+      "marks": 1
+    }
