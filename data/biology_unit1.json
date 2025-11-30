@@ -1009,3 +1009,45 @@
       "topic": "Respiration / Mitochondria",
       "marks": 1
     }
+{
+      "paper": "Jan 2020",
+      "number": 73,
+      "question": "Which structure controls the entry and exit of substances in a cell?",
+      "options": [
+        "Mitochondria",
+        "Cell membrane",
+        "Golgi apparatus",
+        "Nucleus"
+      ],
+      "answer": "B",
+      "topic": "Cell membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2020",
+      "number": 74,
+      "question": "Which of the following bases is found in RNA but not DNA?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "answer": "D",
+      "topic": "RNA vs DNA",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2020",
+      "number": 75,
+      "question": "Which statement correctly describes diffusion?",
+      "options": [
+        "Movement of particles against a concentration gradient",
+        "Movement of particles from high to low concentration",
+        "Active movement requiring ATP",
+        "Transport that uses carrier proteins only"
+      ],
+      "answer": "B",
+      "topic": "Transport / Diffusion",
+      "marks": 1
+    }
