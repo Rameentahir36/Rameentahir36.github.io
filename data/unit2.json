@@ -122,3 +122,43 @@
       "topic": "Equilibrium",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 16,
+      "question": "State the effect of a catalyst on the position of equilibrium.",
+      "answer": "A catalyst has no effect on the position of equilibrium; it only speeds up the rate at which equilibrium is reached.",
+      "topic": "Equilibrium",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 17,
+      "question": "Define the term standard enthalpy of formation.",
+      "answer": "The enthalpy change when 1 mole of a compound is formed from its elements under standard conditions.",
+      "topic": "Energetics",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 18,
+      "question": "Explain why some reactions are exothermic.",
+      "answer": "More energy is released when new bonds form in the products than is required to break the bonds in the reactants.",
+      "topic": "Energetics",
+      "marks": 2
+    },
+{
+      "paper": "Jan 2023",
+      "number": 19,
+      "question": "State Hess’s law.",
+      "answer": "The total enthalpy change for a reaction is the same, regardless of the route taken.",
+      "topic": "Energetics",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 20,
+      "question": "Explain how increasing surface area increases the rate of a heterogeneous reaction.",
+      "answer": "More particles are exposed and available for collisions, increasing the frequency of successful collisions.",
+      "topic": "Kinetics",
+      "marks": 2
+    }
