@@ -2,3 +2,27 @@
   "unit": "CH01",
   "type": "structured",
   "questions": [
+{
+      "paper": "Jan 2023",
+      "number": 1,
+      "question": "Define relative atomic mass.",
+      "answer": "The weighted mean mass of an atom of an element compared with one-twelfth of the mass of an atom of carbon-12.",
+      "topic": "Atomic structure",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 2,
+      "question": "Describe how ions are produced in a time-of-flight mass spectrometer.",
+      "answer": "Sample is bombarded by high-energy electrons which knock out electrons to form positive ions.",
+      "topic": "Mass spectrometry",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 3,
+      "question": "Explain why isotopes of the same element have the same chemical properties.",
+      "answer": "They have the same electron configuration.",
+      "topic": "Atomic structure",
+      "marks": 1
+    },
