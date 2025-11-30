@@ -169,3 +169,45 @@
       "topic": "Energy / ATP",
       "marks": 1
     }
+{
+      "paper": "Jan 2024",
+      "number": 13,
+      "question": "Which level of protein structure involves hydrogen bonding between the C=O and N–H groups of the polypeptide backbone?",
+      "options": [
+        "Primary structure",
+        "Secondary structure",
+        "Tertiary structure",
+        "Quaternary structure"
+      ],
+      "answer": "B",
+      "topic": "Proteins",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 14,
+      "question": "Which term describes the net movement of particles from an area of high concentration to an area of low concentration?",
+      "options": [
+        "Diffusion",
+        "Active transport",
+        "Endocytosis",
+        "Osmosis"
+      ],
+      "answer": "A",
+      "topic": "Transport across membranes",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2024",
+      "number": 15,
+      "question": "Which component of a phospholipid is hydrophobic?",
+      "options": [
+        "Phosphate group",
+        "Glycerol",
+        "Fatty acid tails",
+        "Both the phosphate and glycerol"
+      ],
+      "answer": "C",
+      "topic": "Membranes",
+      "marks": 1
+    }
