@@ -715,3 +715,45 @@
       "topic": "Transcription",
       "marks": 1
     }
+{
+      "paper": "Jan 2022",
+      "number": 52,
+      "question": "Which component of a cell membrane allows facilitated diffusion of ions?",
+      "options": [
+        "Glycolipids",
+        "Channel proteins",
+        "Phospholipid tails",
+        "Cholesterol"
+      ],
+      "answer": "B",
+      "topic": "Membranes / Transport",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 53,
+      "question": "Which statement describes a competitive enzyme inhibitor?",
+      "options": [
+        "It binds permanently to the enzyme",
+        "It binds to the active site of the enzyme",
+        "It changes the enzyme’s tertiary structure",
+        "It increases the rate of reaction"
+      ],
+      "answer": "B",
+      "topic": "Enzymes / Inhibition",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2022",
+      "number": 54,
+      "question": "Which property of water is important for temperature regulation in living organisms?",
+      "options": [
+        "Low heat capacity",
+        "High latent heat of vaporisation",
+        "Low surface tension",
+        "Insolubility"
+      ],
+      "answer": "B",
+      "topic": "Water",
+      "marks": 1
+    }
