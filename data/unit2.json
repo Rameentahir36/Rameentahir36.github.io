@@ -26,3 +26,27 @@
       "topic": "Equilibrium",
       "marks": 1
     },
+{
+      "paper": "Jan 2023",
+      "number": 4,
+      "question": "Explain the effect of increasing pressure on the position of equilibrium for reactions involving gases.",
+      "answer": "Equilibrium shifts to the side with fewer moles of gas to oppose the increase in pressure.",
+      "topic": "Equilibrium",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 5,
+      "question": "Define the term enthalpy change.",
+      "answer": "The heat energy change under constant pressure.",
+      "topic": "Energetics",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 6,
+      "question": "Explain why exothermic reactions have negative enthalpy changes.",
+      "answer": "Energy is released to the surroundings, so the products have less energy than the reactants.",
+      "topic": "Energetics",
+      "marks": 2
+    },
