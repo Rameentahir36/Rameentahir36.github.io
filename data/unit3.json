@@ -50,3 +50,27 @@
       "topic": "Group 2",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 7,
+      "question": "Describe and explain the trend in thermal stability of Group 2 carbonates down the group.",
+      "answer": "Thermal stability increases down the group because larger cations have lower charge density and polarise the carbonate ion less.",
+      "topic": "Group 2",
+      "marks": 3
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 8,
+      "question": "Explain why the decomposition of Group 2 carbonates requires more heat down the group.",
+      "answer": "Carbonates become more thermally stable as cation charge density decreases, so more heat is needed to distort the carbonate ion.",
+      "topic": "Group 2",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 9,
+      "question": "State the trend in boiling points of the halogens down Group 17.",
+      "answer": "Boiling points increase down the group.",
+      "topic": "Halogens",
+      "marks": 1
+    },
