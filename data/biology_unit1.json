@@ -1177,3 +1177,45 @@
       "topic": "Cell structure / Golgi",
       "marks": 1
     }
+{
+      "paper": "Jan 2023",
+      "number": 85,
+      "question": "Which of the following correctly describes a hydrogen bond?",
+      "options": [
+        "A bond between two metal ions",
+        "A strong covalent bond within molecules",
+        "A weak attraction between partially charged atoms",
+        "A bond that forms only in lipids"
+      ],
+      "answer": "C",
+      "topic": "Chemical bonding / Biology",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 86,
+      "question": "Which structure regulates the movement of molecules into and out of the nucleus?",
+      "options": [
+        "Nucleolus",
+        "Nuclear membrane",
+        "Nuclear pores",
+        "Ribosomes"
+      ],
+      "answer": "C",
+      "topic": "Cell structure / Nucleus",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 87,
+      "question": "Which process occurs during transcription?",
+      "options": [
+        "A DNA molecule is replicated",
+        "mRNA is produced from a DNA template",
+        "A protein is assembled from amino acids",
+        "Chromosomes are separated"
+      ],
+      "answer": "B",
+      "topic": "DNA → RNA / Transcription",
+      "marks": 1
+    }
