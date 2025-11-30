@@ -505,3 +505,45 @@
       "topic": "Cell division",
       "marks": 1
     }
+{
+      "paper": "Jun 2019",
+      "number": 37,
+      "question": "Which component of blood is responsible for transporting oxygen?",
+      "options": [
+        "Plasma",
+        "Platelets",
+        "White blood cells",
+        "Red blood cells"
+      ],
+      "answer": "D",
+      "topic": "Transport / Blood",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 38,
+      "question": "Which bond forms between two glucose molecules in maltose?",
+      "options": [
+        "Peptide bond",
+        "Hydrogen bond",
+        "Glycosidic bond",
+        "Ionic bond"
+      ],
+      "answer": "C",
+      "topic": "Carbohydrates / Bonds",
+      "marks": 1
+    },
+    {
+      "paper": "Jun 2019",
+      "number": 39,
+      "question": "Which organelle modifies and packages proteins for secretion?",
+      "options": [
+        "Golgi apparatus",
+        "Ribosome",
+        "Mitochondrion",
+        "Rough ER"
+      ],
+      "answer": "A",
+      "topic": "Cell structure / Golgi",
+      "marks": 1
+    }
