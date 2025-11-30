@@ -98,3 +98,27 @@
       "topic": "Equilibrium",
       "marks": 2
     },
+{
+      "paper": "Jan 2023",
+      "number": 13,
+      "question": "Define the term rate of reaction.",
+      "answer": "The change in concentration of a reactant or product per unit time.",
+      "topic": "Kinetics",
+      "marks": 1
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 14,
+      "question": "Explain why increasing the concentration of a reactant increases the rate of reaction.",
+      "answer": "More particles per unit volume → more frequent collisions → more successful collisions.",
+      "topic": "Kinetics",
+      "marks": 2
+    },
+    {
+      "paper": "Jan 2023",
+      "number": 15,
+      "question": "Define the term reversible reaction.",
+      "answer": "A reaction in which the products can react to reform the reactants.",
+      "topic": "Equilibrium",
+      "marks": 1
+    },
